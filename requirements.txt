@@ -1,8 +1,2 @@
 paramiko
 python-dotenv
-socket
-termios
-tty
-sys
-os
-select
